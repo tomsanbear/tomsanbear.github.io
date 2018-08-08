@@ -7,11 +7,18 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">santerre.xyz</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+         The short:
+        </p>
+        <p className="App-paragraph">
+          Still working on adding a ton more things to this site, but please check me out on the following platforms!
+        </p>
+        <p className="App-paragraph">
+          <a href="https://www.linkedin.com/in/tomsanbear/"target="_blank">LinkedIn</a><br />
+          <a href="https://github.com/tomsanbear"target="_blank">GitHub</a><br />
+          <a href="mailto:thomas@santerre.xyz?"target="_top">Email</a><br />
         </p>
       </div>
     );
@@ -19,3 +26,4 @@ class App extends Component {
 }
 
 export default App;
+
