@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
@@ -16,8 +15,8 @@ class App extends Component {
           Still working on adding a ton more things to this site, but please check me out on the following platforms!
         </p>
         <p className="App-paragraph">
-          <a href="https://www.linkedin.com/in/tomsanbear/"target="_blank">LinkedIn</a><br />
-          <a href="https://github.com/tomsanbear"target="_blank">GitHub</a><br />
+          <a href="https://www.linkedin.com/in/tomsanbear/">LinkedIn</a><br />
+          <a href="https://github.com/tomsanbear">GitHub</a><br />
           <a href="mailto:thomas@santerre.xyz?"target="_top">Email</a><br />
         </p>
       </div>
