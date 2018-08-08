@@ -5,10 +5,10 @@ cache:
   directories:
   - node_modules
 script:
-  - cp CNAME ./build/CNAME
   - npm install
   - npm test
   - npm run build
+  - cp CNAME build/CNAME
 deploy:
   provider: pages
   skip_cleanup: true
