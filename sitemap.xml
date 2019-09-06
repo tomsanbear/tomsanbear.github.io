@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://santerre.xyz/posts/intro/</loc>
+    <lastmod>2019-05-27T20:26:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://santerre.xyz/posts/</loc>
+    <lastmod>2019-05-27T20:26:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://santerre.xyz/</loc>
+    <lastmod>2019-05-27T20:26:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://santerre.xyz/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://santerre.xyz/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://santerre.xyz/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://santerre.xyz/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://santerre.xyz/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://santerre.xyz/tags/</loc>
+  </url>
+  
+</urlset>
