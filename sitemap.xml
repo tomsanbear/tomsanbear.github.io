@@ -26,10 +26,6 @@
   </url>
   
   <url>
-    <loc>https://santerre.xyz/contact/</loc>
-  </url>
-  
-  <url>
     <loc>https://santerre.xyz/projects/</loc>
   </url>
   
@@ -39,6 +35,10 @@
   
   <url>
     <loc>https://santerre.xyz/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://santerre.xyz/books/</loc>
   </url>
   
 </urlset>

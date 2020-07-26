@@ -26,16 +26,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://santerre.xyz/about/</guid>
-      <description>meowe</description>
-    </item>
-    
-    <item>
-      <title>Contact Me</title>
-      <link>https://santerre.xyz/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://santerre.xyz/contact/</guid>
-      <description>meow contact</description>
+      <description>General Originally from the east coast of Canada, I have lived in Toronto for most of my life for school and the first three years of my career, I am currently living in Tokyo with my partner as we both enjoy travelling surrounding Asian countries!
+Some of my hobbies include:
+ Cycling &amp;amp; Bike Packing (feel free to add me on Strava) Reading (see here for more info on what I&amp;rsquo;m reading) Travelling (see my gallery for some photos from my various trips, WIP) Gaming (see my steam for what I&amp;rsquo;m currently playing)  Career Starting off as an Electrical Engineering Major at the University of Toronto, I originally was planning to pursue a career in the field of Telecom Hardware, but later I pivoted to Software as I fell in love with developing network and cloud applications.</description>
     </item>
     
     <item>
@@ -44,7 +37,23 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://santerre.xyz/projects/</guid>
-      <description></description>
+      <description>Here are some of the projects that I have worked on/am working on that
+GigK8s Kubernetes system to auction/offer your spare Kubernetes compute to the market.
+Triggers Automation system to map incoming webhooks from any source (Slack, Github, etc&amp;hellip;) to predefined workflows that transform your data to other input sources (Slack, Github, etc&amp;hellip;). Created out of lack of a bridge for Slack webhooks to trigger GH Actions.
+Gossip-rs A reimplementation of the memberlist library written in Rust.</description>
+    </item>
+    
+    <item>
+      <title>What am I currently Reading</title>
+      <link>https://santerre.xyz/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://santerre.xyz/books/</guid>
+      <description>Fiction Tiamat&amp;rsquo;s Wrath (James S.A. Corey)
+Having been a huge fan of The Expanse series since it first came out, I finally had a chance to get a copy of this book over here in Japan.
+Non-Fiction The Wars of Afghanistan (Peter Tompsen)
+Fascinating book looking into the history of the middle east and how it contributed to the events of our modern society.
+Technical/Software Accelerate (Nicole Forsgren, Jez Humble, Gene Kim)</description>
     </item>
     
   </channel>
